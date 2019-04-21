@@ -9,15 +9,15 @@
 Four repositories were required for this lab assignment. The submission pull request, Travis.CI build, and actual code repository for each are listed below.
 #### 1. Message Queue Server 
    * [PR](https://github.com/alex-white-401-advanced-javascript/log-19-api-server/pull/2)
-   [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-server.svg?branch=master)](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-server)
+   * [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-server.svg?branch=master)](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-server)
 
 #### 2. Message Queue Logger 
    * [PR](https://github.com/alex-white-401-advanced-javascript/lab-19-logger/pull/1)
-   [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/lab-19-logger.svg?branch=submission)](https://travis-ci.com/alex-white-401-advanced-javascript/lab-19-logger)
+   * [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/lab-19-logger.svg?branch=submission)](https://travis-ci.com/alex-white-401-advanced-javascript/lab-19-logger)
 
 #### 4. API Server
    * [PR](https://github.com/alex-white-401-advanced-javascript/log-19-api-server/pull/2)
-   [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-api-server.svg?branch=resub)](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-api-server)
+   * [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-api-server.svg?branch=resub)](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-api-server)
 
 
 ### Modules
