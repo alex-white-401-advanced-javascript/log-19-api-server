@@ -1,9 +1,9 @@
 'use strict';
 
 const rootDir = process.cwd();
-const supergoose = require('./supergoose.js');
-const {server} = require(`${rootDir}/src/app.js`);
-const mockRequest = supergoose.server(server);
+const supergoose = require(`${rootDir}/__tests__/supergoose.js`);
+const server = require(`${rootDir}/src/app.js`);
+const mockRequest = supergoose.server(server.app);
 
 beforeAll(supergoose.startDB);
 afterAll(supergoose.stopDB);

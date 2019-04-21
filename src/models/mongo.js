@@ -1,7 +1,8 @@
 'use strict';
 
-
-const Q = require('../app.js').Q;
+// players.post('save', function() {
+//   Q.publish('database', 'create', {action:'save', collection:'players',id:this.id});
+// });
 
 /** Class representing a generic mongo model. */
 class Model {
